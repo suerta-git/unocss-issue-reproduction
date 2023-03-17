@@ -11,4 +11,4 @@
 
 效果：
 
-[video](./screen-recording.mov)
+https://user-images.githubusercontent.com/59438603/225864995-761b29f9-1708-4b37-a40d-e866823927a8.mov
